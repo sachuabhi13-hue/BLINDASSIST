@@ -1,0 +1,4 @@
+-keep class ai.onnxruntime.** { *; }
+-dontwarn ai.onnxruntime.**
+-keep class androidx.camera.** { *; }
+-keep class com.blindassist.** { *; }

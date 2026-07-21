@@ -1,0 +1,1 @@
+Place yolov8n.onnx here. Run: python download_model.py
